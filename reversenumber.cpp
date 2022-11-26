@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int number, r_number=0;
-    cout << "Number:";
+    cout << "Number: ";
     cin >> number;
 
     while (number != 0)
